@@ -9,7 +9,7 @@ theme = "hugo-webslides"
 
 [params.webslides]
   banner = false
-  slideshow = false
+  slideshow = true
   vertical = false
   autoslide = false
   changeOnClick = false

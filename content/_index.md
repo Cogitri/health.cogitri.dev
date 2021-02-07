@@ -14,9 +14,9 @@ Health is a health tracking application for the GNOME desktop.
 Health can track activities, stepcounts and weight measurements for you.
 
 <!--: .flexblock gallery -->
-- {{< gallery title="Activities" href="#slide=2" src="images/activities.jpg" >}}Activities{{< /gallery >}}
-- {{< gallery title="Stepcounts" href="#slide=3" src="images/stepcounts.jpg" >}}Stepcounts{{< /gallery >}}
-- {{< gallery title="Weight Measurements" href="#slide=4" src="images/weight_measurement.jpg" >}}Weight measurements{{< /gallery >}}
+- {{< gallery title="Activities" href="#slide=3" src="images/activities.jpg" >}}Activities{{< /gallery >}}
+- {{< gallery title="Stepcounts" href="#slide=4" src="images/stepcounts.jpg" >}}Stepcounts{{< /gallery >}}
+- {{< gallery title="Weight Measurements" href="#slide=5" src="images/weight_measurement.jpg" >}}Weight measurements{{< /gallery >}}
 
 ---
 <!-- : .text-intro -->Activities tracking
