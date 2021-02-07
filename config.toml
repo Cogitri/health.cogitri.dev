@@ -1,0 +1,24 @@
+baseURL = "https://health.cogitri.dev"
+languageCode = "en-gb"
+title = "Health"
+theme = "hugo-webslides"
+
+[params]
+  author = "Cogitri"
+  homepage = "cogitri.dev"
+
+[params.webslides]
+  banner = false
+  slideshow = false
+  vertical = false
+  autoslide = false
+  changeOnClick = false
+  disableLoop = true
+  minWheelDelta = 40
+  disableNavigateOnScroll = false
+  scrollWait = 450
+  slideOffset = 50
+  hideIndex = true
+
+[markup]
+defaultMarkdownHandler = "blackfriday"
