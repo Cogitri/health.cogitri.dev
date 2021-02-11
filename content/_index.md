@@ -36,3 +36,10 @@ Health can track activities, stepcounts and weight measurements for you.
 <!-- : .text-intro -->Weight tracking
 
 [<img class="aligncenter" src="images/weight_measurement.jpg" alt="Weight View">](https://gitlab.gnome.org/Cogitri/Health)
+
+---
+
+## Sync
+Health can sync stepcounts and weight measurements with Google Fit. This way stepcounts/weight measurements can automatically
+be synched from your smart gadgets to your phone and from there to Health. We don't store any data of you, see
+[Health's privacy policy](https://health.cogitri.dev/PRIVACY.md) for an in-depth overview.
